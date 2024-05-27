@@ -10,4 +10,8 @@ const FizzBuzz = (num) => {
     }
 };
 
+for(let i=0; i<=100; i++){
+    console.log(FizzBuzz(i));
+}
+
 module.exports = { FizzBuzz };

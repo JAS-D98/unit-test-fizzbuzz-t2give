@@ -196,7 +196,7 @@
     "yocto-queue": "^0.1.0"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --verbose"
   },
   "author": "\"Jasper Ngunjiri\"",
   "license": "ISC"
